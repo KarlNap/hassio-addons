@@ -1,6 +1,7 @@
 # hassio-addons
 
 More add-ons for your Hass.io
+This is just a fork from the original to fix a bug.
 
 ## Installation
 
